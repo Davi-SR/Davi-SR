@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https:https://www.linkedin.com/in/davi-silva-ramos-009011304" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:davi.silva.ramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:davi.silva.ramos26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 Sou um construtor de soluções digitais com uma base sólida em desenvolvimento back-end e uma paixão crescente por Engenharia de Dados. Meu objetivo é criar sistemas eficientes, desde a aplicação até a análise, transformando desafios complexos em software robusto e insights claros.
