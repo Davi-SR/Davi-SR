@@ -32,5 +32,5 @@ Sou um construtor de soluções digitais com uma base sólida em desenvolvimento
 ---
 
 ### GitHub Stats:
-![Estatísticas do GitHub de Davi-SR](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=radical)
+![Estatísticas do GitHub de Davi-SR](https://github-readme-stats.vercel.app/api?username=Davi-SR&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SR&layout=compact&langs_count=7&theme=radical)
